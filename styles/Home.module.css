@@ -4,6 +4,8 @@
   background-color: #F9F5E3;
   color: #1B0C1D;
   padding: 16px;
+  max-width: 900px;
+  margin-inline: auto;
 }
 
 .main .banner {
