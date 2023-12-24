@@ -9,7 +9,7 @@
 }
 
 .main .banner {
-  width: 100vw;
+  width: 100%;
   margin-inline-start: -16px;
   margin-block-start: -16px;
 }
